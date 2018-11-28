@@ -116,10 +116,6 @@
     <Compile Include="Button1_.designer.cs">
       <DependentUpon>Button1_.cs</DependentUpon>
     </Compile>
-    <Compile Include="PKPaymentButtonTypeInStore.cs" />
-    <Compile Include="PKPaymentButtonTypeInStore.designer.cs">
-      <DependentUpon>PKPaymentButtonTypeInStore.cs</DependentUpon>
-    </Compile>
     <Compile Include="MapView.cs" />
     <Compile Include="MapView.designer.cs">
       <DependentUpon>MapView.cs</DependentUpon>

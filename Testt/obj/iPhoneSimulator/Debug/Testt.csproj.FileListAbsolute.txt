@@ -1,0 +1,17 @@
+/Users/nosovsergej/Projects/Testt/Testt/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/nosovsergej/Projects/Testt/Testt/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-12.1/actool/_PartialAppManifest.items
+/Users/nosovsergej/Projects/Testt/Testt/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/nosovsergej/Projects/Testt/Testt/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-12.1/coremlc/_PartialAppManifest.items
+/Users/nosovsergej/Projects/Testt/Testt/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/nosovsergej/Projects/Testt/Testt/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-12.1/optimized/
+/Users/nosovsergej/Projects/Testt/Testt/obj/iPhoneSimulator/Debug/Testt.csprojAssemblyReference.cache
+/Users/nosovsergej/Projects/Testt/Testt/obj/iPhoneSimulator/Debug/Testt.csproj.CoreCompileInputs.cache
+/Users/nosovsergej/Projects/Testt/Testt/bin/iPhoneSimulator/Debug/Testt.exe
+/Users/nosovsergej/Projects/Testt/Testt/bin/iPhoneSimulator/Debug/Testt.pdb
+/Users/nosovsergej/Projects/Testt/Testt/obj/iPhoneSimulator/Debug/Testt.exe
+/Users/nosovsergej/Projects/Testt/Testt/obj/iPhoneSimulator/Debug/Testt.pdb
+/Users/nosovsergej/Projects/Testt/Testt/bin/iPhoneSimulator/Debug/Plugin.Geolocator.dll
+/Users/nosovsergej/Projects/Testt/Testt/bin/iPhoneSimulator/Debug/Plugin.Permissions.dll
+/Users/nosovsergej/Projects/Testt/Testt/bin/iPhoneSimulator/Debug/Plugin.Permissions.xml
+/Users/nosovsergej/Projects/Testt/Testt/bin/iPhoneSimulator/Debug/Plugin.Geolocator.xml
+/Users/nosovsergej/Projects/Testt/Testt/obj/iPhoneSimulator/Debug/Testt.csproj.CopyComplete

@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AllowsBackgroundUpdates</key>
+	<string></string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string></string>
+	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string></string>
+	<key>NSLocationWhenInUsageDescription</key>
+	<string></string>
 	<key>CFBundleName</key>
 	<string>Testt</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +23,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>MinimumOSVersion</key>
-	<string>12.1</string>
+	<string>12.0</string>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>1</integer>
@@ -36,10 +46,6 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
-	<key>UIBackgroundModes</key>
-	<array>
-		<string>location</string>
-	</array>
 	<key>CFBundleDocumentTypes</key>
 	<array>
 		<dict>

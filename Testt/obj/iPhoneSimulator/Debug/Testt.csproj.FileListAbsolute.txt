@@ -27,7 +27,6 @@
 /Users/nosovsergej/Projects/test/Testt/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-12.1/coremlc/_PartialAppManifest.items
 /Users/nosovsergej/Projects/test/Testt/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-12.1/coremlc/_BundleResourceWithLogicalName.items
 /Users/nosovsergej/Projects/test/Testt/obj/iPhoneSimulator/Debug/device-builds/iphone8.4-12.1/optimized/
-/Users/nosovsergej/Projects/test/Testt/obj/iPhoneSimulator/Debug/Testt.csprojAssemblyReference.cache
 /Users/nosovsergej/Projects/test/Testt/obj/iPhoneSimulator/Debug/Testt.csproj.CoreCompileInputs.cache
 /Users/nosovsergej/Projects/test/Testt/obj/iPhoneSimulator/Debug/Testt.csproj.CopyComplete
 /Users/nosovsergej/Projects/test/Testt/obj/iPhoneSimulator/Debug/Testt.exe

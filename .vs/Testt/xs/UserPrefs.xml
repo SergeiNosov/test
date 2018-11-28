@@ -1,8 +1,11 @@
-﻿<Properties StartupConfiguration="{628749AD-EEC1-44AE-8380-0363BCF44B6E}|Default">
-  <MonoDevelop.Ide.ItemProperties.Testt PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.077CAF36-038A-40AE-85E5-DFAF8BB44C80" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Testt/Main.storyboard">
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.Testt automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Testt/Info.plist">
     <Files>
       <File FileName="Testt/Main.storyboard" />
+      <File FileName="Testt/ViewController.cs" Line="1" Column="1" />
+      <File FileName="Testt/MapView.cs" Line="1" Column="1" />
+      <File FileName="Testt/Info.plist" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />

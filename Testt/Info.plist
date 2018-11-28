@@ -4,14 +4,12 @@
 <dict>
 	<key>AllowsBackgroundUpdates</key>
 	<string></string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string></string>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string></string>
 	</array>
-	<key>NSLocationAlwaysUsageDescription</key>
-	<string></string>
-	<key>NSLocationWhenInUsageDescription</key>
-	<string></string>
 	<key>CFBundleName</key>
 	<string>Testt</string>
 	<key>CFBundleIdentifier</key>
